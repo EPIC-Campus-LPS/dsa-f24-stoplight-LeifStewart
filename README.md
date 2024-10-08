@@ -33,7 +33,7 @@
 - In order to use a button, set the `S` pin to an input with `GPIO.setup(pin_number, GPIO.IN)`. It the button is pressed, `GPIO.input(pin_number)` will be equal to 0. If it is unpressed, `GPIO.input(pin_number)` will be equal to 1.
 - Take a short video of your button starting the stoplight and the pattern appearing correctly
 
-- [ ] Upload `button_stoplight.py`  and the video to this repository then continue to Part V - Wrap Up
+- [x] Upload `button_stoplight.py`  and the video to this repository then continue to Part V - Wrap Up
 ## Part V - Wrap Up
 
 - Make sure all the deliverables above are  uploaded to the repository
