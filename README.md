@@ -6,7 +6,7 @@
 - Create a circuit to light up 3 light bulbs - *Remember each 3V coin battery is equivalent to a GPIO pin on your Raspberry Pi*
 - Take a screenshot of your circuit
 
-- [ ] Take a screenshot of your circuit and upload it to this repository 
+- [x] Take a screenshot of your circuit and upload it to this repository 
 ## Part II - Python3
 
 - Redo part I with real components; however, for your power source, use GPIO pins on your Raspberry Pi. _Turn off your Pi when connecting cables to the GPIO ports._
@@ -15,7 +15,7 @@
 - Add comments to your Python script to explain how it works.
 - Take a short video of your stoplight working and a clear top-down photo of your wiring
 
-- [ ] Upload `led_stoplight.py`, the video, and the photo to this repository then continue to Part II
+- [x] Upload `led_stoplight.py`, the video, and the photo to this repository then continue to Part II
 
 ## Part III - RBG LED  
 
@@ -25,7 +25,7 @@
 - Add comments to your Python script to explain how it works.
 - Take a clear top-down photo of your wiring
 
-- [ ] Upload `rgb_stoplight.py` and your photo then continue to Part IV
+- [x] Upload `rgb_stoplight.py` and your photo then continue to Part IV
 ## Part IV - Starting with a Button
 
 - In a new script `button_stoplight.py`, add a button or touch module to your project to start your RGB stoplight. When the button is pressed the light should light up in the green, yellow, red pattern.
